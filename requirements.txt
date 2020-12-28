@@ -1,0 +1,9 @@
+Django==2.1.4
+pytz==2018.7
+numpy==1.19.3
+category_encoders
+lightgbm
+pandas
+sklearn
+gunicorn
+django-heroku
